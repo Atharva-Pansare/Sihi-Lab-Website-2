@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "Atharva-Pansare/Sihi-Lab-Website-2",
+    "data-repo": "Atharva-Pansare/Atharva-Pansare.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
